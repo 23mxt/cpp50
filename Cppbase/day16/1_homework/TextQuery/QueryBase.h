@@ -5,7 +5,7 @@
 class QueryBase 
 {
     friend class Query;//调用虚函数
-protected:
+protected:  //为了让派生类继承该成员函数
     using line_no=TextQuery::line_no;
     virtual ~QueryBase()=default;
 private:

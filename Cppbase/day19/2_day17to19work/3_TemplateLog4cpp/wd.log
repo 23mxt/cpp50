@@ -1,0 +1,37 @@
+2023-07-19 17:47:12,982 MyCat [ERROR] [TestMyLogger.cc:test4:51] hello, world, 10,0x7ffc1fb42904 hello,world 10
+
+2023-07-19 17:51:57,075 MyCat [ERROR] [TestMyLogger.cc:test4:51] hello, world, 10,0x7ffe92b05674 hello,world 10
+
+2023-07-19 20:07:30,373 MyCat [ERROR] [TestMyLogger.cc:test:13] this is an error message!
+2023-07-19 20:07:30,373 MyCat [WARN] this is a warn message!
+2023-07-19 20:07:30,373 MyCat [INFO] this is an info message!
+2023-07-19 20:07:30,373 MyCat [DEBUG] this is a debug message!
+2023-07-19 20:07:30,373 MyCat [INFO] [TestMyLogger.cc:test:22] hello
+2023-07-19 20:09:48,187 MyCat [ERROR] [TestMyLogger.cc:test:13] this is an error message!
+2023-07-19 20:09:48,187 MyCat [WARN] this is a warn message!
+2023-07-19 20:09:48,187 MyCat [INFO] this is an info message!
+2023-07-19 20:09:48,187 MyCat [DEBUG] this is a debug message!
+2023-07-19 20:09:48,187 MyCat [INFO] [TestMyLogger.cc:test:22] hello
+2023-07-19 20:09:48,187 MyCat [ERROR] [TestMyLogger.cc:test:25] this is an error message!
+2023-07-19 20:09:48,187 MyCat [WARN] this is a warn message!
+2023-07-19 20:13:36,349 MyCat [ERROR] [TestMyLogger.cc:test:13] this is an error message!
+2023-07-19 20:13:36,349 MyCat [WARN] this is a warn message!
+2023-07-19 20:13:36,349 MyCat [INFO] this is an info message!
+2023-07-19 20:13:36,349 MyCat [DEBUG] this is a debug message!
+2023-07-19 20:13:36,350 MyCat [INFO] [TestMyLogger.cc:test:22] hello
+2023-07-19 20:13:36,350 MyCat [ERROR] [TestMyLogger.cc:test:25] this is an error message!
+2023-07-19 20:13:36,350 MyCat [WARN] this is a warn message!
+2023-07-19 20:15:44,429 MyCat [ERROR] [TestMyLogger.cc:test3:42] this is an error message! 
+2023-07-19 20:15:44,429 MyCat [WARN] [TestMyLogger.cc:test3:43] this is a warn message!
+2023-07-19 20:15:44,429 MyCat [INFO] [TestMyLogger.cc:test3:44] this is a info message!
+2023-07-19 20:15:44,429 MyCat [DEBUG] [TestMyLogger.cc:test3:45] this is a debug message!
+2023-07-19 20:16:31,454 MyCat [DEBUG] [TestMyLogger.cc:test4:52] this is a error message! number = 10, str = hello,world
+2023-07-19 20:16:31,454 MyCat [ERROR] [TestMyLogger.cc:test4:60] hello, world, 10,0x7fff89cbc934 hello,world 10
+
+2023-07-19 20:28:21,102 MyCat [DEBUG] [TestMyLogger.cc:test4:52] this is a error message! number = 10, str = hello,world
+2023-07-19 20:28:21,102 MyCat [ERROR] [TestMyLogger.cc:test4:60] hello, world, 10,0x7ffeb74bef14 hello,world 10
+
+2023-07-19 20:28:21,102 MyCat [WARN] [TestMyLogger.cc:test4:62] hello, world, 10,0x7ffeb74bef14 hello,world 10
+
+2023-07-19 20:28:21,102 MyCat [INFO] [TestMyLogger.cc:test4:64] hello, world, 10,0x7ffeb74bef14 hello,world 10
+

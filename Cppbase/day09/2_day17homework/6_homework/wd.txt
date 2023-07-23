@@ -1,0 +1,10 @@
+2023-07-17 20:42:49,440 mycat [INFO] testMyLogger.cc:test:29:This is an info message
+2023-07-17 20:42:49,440 mycat [ERROR] testMyLogger.cc:test:30:This is an error message
+2023-07-17 22:22:35,985 mycat [WARN] This is an info message.number = 100, str = hello, log4cpp
+
+2023-07-17 22:22:35,986 mycat [ERROR] This is an error message.number = 100, str = hello, log4cpp
+
+2023-07-17 22:25:03,267 mycat [WARN] This is an info message.number = 100, str = hello, log4cpp, number2 = 200, pstr2 = really
+
+2023-07-17 22:25:03,267 mycat [ERROR] This is an error message.number = 100, str = hello, log4cpp
+

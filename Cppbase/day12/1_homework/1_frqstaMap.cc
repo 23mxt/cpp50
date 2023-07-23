@@ -14,6 +14,7 @@ using std::endl;
 using std::string;
 using std::vector;
 using std::map;
+using std::unordered_map;
 using std::pair;
 using std::make_pair;
 using std::ifstream;
@@ -92,8 +93,7 @@ public:
             return;
         }
 
-        map<string, int>::iterator it;
-        for(it = _dict.begin(); it != _dict.end(); ++it)
+        for(auto it = _dict.begin(); it != _dict.end(); ++it)
         {
             ofs << it->first << "   " 
                 << it->second << endl;
@@ -117,6 +117,7 @@ public:
     }
 
     //把结果插入到map中
+#if 0
     void insert(string &word)
     {
         if(word == string())
@@ -137,9 +138,9 @@ public:
         cout << "insert really?" << endl;
         _dict.insert(pair<string, int>(word, 1));
     }
-
+#endif 
 private:
-    map<string, int> _dict;
+    unordered_map<string, int> _dict;
 };
 
 int main(int argc, char **argv)
@@ -152,7 +153,7 @@ int main(int argc, char **argv)
     time_t end  = time(NULL);
     cout << "time : " << (end - beg) << "s" << endl;
     cout << "after reading..." << endl;
-    dictionary.store("dictVector.dat");
+    dictionary.store("dictMap.dat");
     return 0;
 }
 

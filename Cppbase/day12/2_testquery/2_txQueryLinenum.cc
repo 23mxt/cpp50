@@ -114,7 +114,7 @@ public:
 
         return word;
     }
-
+#if 0
     //把结果插入到map中
     void insert(string &word)
     {
@@ -136,6 +136,7 @@ public:
         cout << "insert really?" << endl;
         _dict.insert(pair<string, int>(word, 1));
     }
+#endif
 
 private:
     vector<string>_lines;//一次读一行，压入vector

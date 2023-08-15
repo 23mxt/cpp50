@@ -1,0 +1,883 @@
+2023-08-13 18:29:48,680 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 1
+buf = 王道
+
+2023-08-13 18:29:48,895 mylogger [INFO] [SearchEngineServer.cpp] [process] [54] KEYRECOMMAND : sendMsg : {"0":["王牌"],"1":["王充"],"2":["王权"],"3":["王朝"],"4":["王国"]}
+
+2023-08-13 18:29:57,104 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 2
+buf = 你好
+
+2023-08-13 18:48:48,753 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 1
+buf = 孔子
+
+2023-08-13 18:48:48,958 mylogger [INFO] [SearchEngineServer.cpp] [process] [54] KEYRECOMMAND : sendMsg : {"0":["孔子"],"1":["孔教"],"2":["电子"],"3":["分子"],"4":["孔"]}
+
+2023-08-13 18:48:57,673 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 1
+buf = 王道
+
+2023-08-13 18:48:57,674 mylogger [INFO] [SearchEngineServer.cpp] [process] [54] KEYRECOMMAND : sendMsg : {"0":["王充"],"1":["王朝"],"2":["王牌"],"3":["王权"],"4":["王国"]}
+
+2023-08-13 18:49:07,239 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 2
+buf = 孔子
+
+2023-08-13 18:54:46,176 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 1
+buf = 王道
+
+2023-08-13 18:54:46,391 mylogger [INFO] [SearchEngineServer.cpp] [process] [54] KEYRECOMMAND : sendMsg : {"0":["王牌"],"1":["王充"],"2":["王权"],"3":["王朝"],"4":["王国"]}
+
+2023-08-13 18:54:50,926 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 1
+buf = 孔子
+
+2023-08-13 18:54:50,927 mylogger [INFO] [SearchEngineServer.cpp] [process] [54] KEYRECOMMAND : sendMsg : {"0":["孔子"],"1":["电子"],"2":["孔教"],"3":["分子"],"4":["孔"]}
+
+2023-08-13 18:54:58,370 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 1
+buf = 王道
+
+2023-08-13 18:54:58,371 mylogger [INFO] [SearchEngineServer.cpp] [process] [54] KEYRECOMMAND : sendMsg : {"0":["王牌"],"1":["王充"],"2":["王权"],"3":["王朝"],"4":["王国"]}
+
+2023-08-13 18:55:09,827 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 2
+buf = 孔子
+
+2023-08-13 21:15:56,282 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 2
+buf = 孔子
+
+2023-08-13 21:26:41,743 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 0
+ID = 0
+buf = 
+
+2023-08-13 21:26:57,856 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 1
+ID = 0
+buf = 1
+
+2023-08-13 21:27:06,314 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 2
+buf = 王道
+
+2023-08-13 21:40:37,929 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 2
+buf = 孔子
+
+2023-08-13 21:42:22,744 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 科技
+
+2023-08-13 21:42:22,945 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["科技"],"1":["科林"],"2":["科斯"],"3":["科因"],"4":["科内"]}
+
+2023-08-13 21:42:28,887 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 18
+ID = 1
+buf = 王道在线科技
+
+2023-08-13 21:42:28,888 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["新人"],"1":["各国"],"2":["术学"],"3":["化学"],"4":["承认"]}
+
+2023-08-13 21:42:38,721 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 12
+ID = 1
+buf = 王道科技
+
+2023-08-13 21:42:38,722 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["科技"],"1":["王世贞"],"2":["王牌"],"3":["科克"],"4":["王充"]}
+
+2023-08-13 21:42:52,232 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 2
+buf = 孔子
+
+2023-08-13 22:41:46,094 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 2
+buf = 科技
+
+2023-08-13 22:41:46,096 mylogger [WARN] [SearchEngineServer.cpp] [process] [69] WEBPAGEQUERY : sendMsg : �
+
+2023-08-13 22:47:01,570 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = hao
+
+2023-08-13 22:47:01,905 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["hazo"],"1":["hap"],"2":["hai"],"3":["halo"],"4":["ho"]}
+
+2023-08-13 22:47:08,396 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 科技
+
+2023-08-13 22:47:08,411 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["科技"],"1":["科举"],"2":["科克"],"3":["科内"],"4":["科因"]}
+
+2023-08-13 22:47:15,324 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 2
+buf = 孔子
+
+2023-08-13 22:47:50,738 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 2
+buf = 你好
+
+2023-08-13 22:47:50,739 mylogger [WARN] [SearchEngineServer.cpp] [process] [69] WEBPAGEQUERY : sendMsg : �
+
+2023-08-13 23:20:30,418 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 2
+buf = 你好
+
+2023-08-13 23:20:30,419 mylogger [WARN] [SearchEngineServer.cpp] [process] [69] WEBPAGEQUERY : sendMsg : �
+
+2023-08-13 23:25:51,399 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 你好
+
+2023-08-13 23:25:51,597 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["美好"],"1":["好"],"2":["当头"],"3":["成雅"],"4":["奸佞"]}
+
+2023-08-13 23:26:03,347 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 王道
+
+2023-08-13 23:26:03,347 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["王牌"],"1":["王朝"],"2":["王充"],"3":["王权"],"4":["王子"]}
+
+2023-08-13 23:26:11,501 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 孔子
+
+2023-08-13 23:26:11,502 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["孔子"],"1":["电子"],"2":["孔教"],"3":["分子"],"4":["孔"]}
+
+2023-08-13 23:26:17,243 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 电气
+
+2023-08-13 23:26:17,243 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["电传"],"1":["电动"],"2":["电台"],"3":["电子"],"4":["电广"]}
+
+2023-08-13 23:26:22,691 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 气息
+
+2023-08-13 23:26:22,692 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["气息"],"1":["气功"],"2":["气候"],"3":["气度"],"4":["气象"]}
+
+2023-08-13 23:26:30,363 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 打牌
+
+2023-08-13 23:26:30,363 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["打猎"],"1":["打假"],"2":["打制"],"3":["打算"],"4":["打发"]}
+
+2023-08-13 23:27:09,638 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 大
+
+2023-08-13 23:27:09,639 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["大"],"1":["大题"],"2":["大革"],"3":["大行"],"4":["大脑"]}
+
+2023-08-13 23:27:29,194 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 小
+
+2023-08-13 23:27:29,194 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["小"],"1":["小憩"],"2":["小成"],"3":["小道"],"4":["小部"]}
+
+2023-08-13 23:31:04,671 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 5
+ID = 1
+buf = apple
+
+2023-08-13 23:31:04,863 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["apple"],"1":["apples"],"2":["ample"],"3":["apply"],"4":["asile"]}
+
+2023-08-13 23:31:13,005 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 4
+ID = 0
+buf = �鳅
+
+2023-08-13 23:31:22,985 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 泥鳅
+
+2023-08-13 23:31:22,999 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["云尔"],"1":["污损"],"2":["波黑"],"3":["泣"],"4":["出来"]}
+
+2023-08-13 23:31:34,042 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 黑色
+
+2023-08-13 23:31:34,048 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["黑色"],"1":["黑方"],"2":["黑烟"],"3":["黑箱"],"4":["黑"]}
+
+2023-08-13 23:31:39,625 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 哩哩
+
+2023-08-13 23:31:39,628 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["reluctance"],"1":["smoothing"],"2":["emotional"],"3":["sympathized"],"4":["cooperative"]}
+
+2023-08-13 23:31:55,120 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 4
+ID = 1
+buf = duck
+
+2023-08-13 23:31:55,232 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["duck"],"1":["dick"],"2":["fuck"],"3":["ducks"],"4":["tuck"]}
+
+2023-08-13 23:32:00,031 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 中国
+
+2023-08-13 23:32:00,042 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中国"],"1":["中下"],"2":["中会"],"3":["中低"],"4":["中加"]}
+
+2023-08-13 23:32:05,255 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 7
+ID = 1
+buf = english
+
+2023-08-13 23:32:05,526 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["english"],"1":["enlist"],"2":["anguish"],"3":["demolish"],"4":["ellis"]}
+
+2023-08-14 00:03:14,825 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 8
+ID = 1
+buf = sound黄
+
+2023-08-14 00:03:15,235 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["sounds"],"1":["sound"],"2":["soundly"],"3":["sount"],"4":["mounds"]}
+
+2023-08-14 00:03:30,196 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 10
+ID = 1
+buf = 中english
+
+2023-08-14 00:03:30,211 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中下"],"1":["中下游"],"2":["中会"],"3":["中低"],"4":["中体西用"]}
+
+2023-08-14 08:59:20,398 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 16
+ID = 1
+buf = 一系列respect
+
+2023-08-14 08:59:20,406 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["一系列"],"1":["系列丛书"],"2":["一系"],"3":["presidents"],"4":["thoughtful"]}
+
+2023-08-14 09:55:43,123 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 10
+ID = 1
+buf = 中english
+
+2023-08-14 09:55:43,330 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["中心"],"3":["中所"],"4":["中介"]}
+
+2023-08-14 09:57:27,801 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 8
+ID = 1
+buf = 黄sound
+
+2023-08-14 09:57:27,802 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["黄河"],"1":["黄"],"2":["黄州"],"3":["黄金"],"4":["黄帝"]}
+
+2023-08-14 09:57:51,404 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 8
+ID = 1
+buf = sound黄
+
+2023-08-14 09:57:51,547 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["sound"],"1":["sounds"],"2":["wound"],"3":["wounds"],"4":["bound"]}
+
+2023-08-14 09:58:03,799 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 4
+ID = 0
+buf = �哩
+
+2023-08-14 09:58:10,494 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 哩哩
+
+2023-08-14 09:58:10,510 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["delaiah"],"1":["decently"],"2":["dealers"],"3":["cutteth"],"4":["consuming"]}
+
+2023-08-14 10:39:47,518 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 8
+ID = 1
+buf = 黄sound
+
+2023-08-14 10:39:47,713 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["黄河"],"1":["黄"],"2":["黄州"],"3":["黄金"],"4":["黄帝"]}
+
+2023-08-14 10:40:24,840 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 10
+ID = 1
+buf = english中
+
+2023-08-14 10:40:24,995 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["english"],"1":["elisha"],"2":["englishman"],"3":["anguish"],"4":["enlist"]}
+
+2023-08-14 10:40:39,828 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 小big
+
+2023-08-14 10:40:39,846 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["小说"],"1":["小调"],"2":["小节"],"3":["小"],"4":["小说家"]}
+
+2023-08-14 10:42:46,007 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 5
+ID = 1
+buf = 小ab
+
+2023-08-14 10:42:46,208 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["小说"],"1":["小调"],"2":["小节"],"3":["小"],"4":["小说家"]}
+
+2023-08-14 10:44:28,543 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 8
+ID = 1
+buf = 黄sound
+
+2023-08-14 10:57:08,303 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 8
+ID = 1
+buf = 黄sound
+
+2023-08-14 10:57:49,656 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 黄
+
+2023-08-14 10:57:49,856 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["黄"],"1":["黄河"],"2":["黄州"],"3":["黄金"],"4":["黄帝"]}
+
+2023-08-14 10:57:53,584 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 5
+ID = 2
+buf = sound
+
+2023-08-14 10:57:53,587 mylogger [WARN] [SearchEngineServer.cpp] [process] [69] WEBPAGEQUERY : sendMsg : �
+
+2023-08-14 11:11:14,403 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 7
+ID = 1
+buf = english
+
+2023-08-14 11:11:18,064 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["english"],"1":["english"],"2":["english"],"3":["english"],"4":["english"]}
+
+2023-08-14 11:11:26,027 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 中文
+
+2023-08-14 11:11:26,160 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中文"],"1":["中文"],"2":["中"],"3":["中"],"4":["中国"]}
+
+2023-08-14 11:11:33,261 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 10
+ID = 1
+buf = 中english
+
+2023-08-14 11:15:54,608 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 11:15:54,803 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["画"],"3":["正"],"4":["中心"]}
+
+2023-08-14 11:16:03,443 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 11:16:03,443 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["画"],"3":["正"],"4":["中心"]}
+
+2023-08-14 11:16:11,635 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 5
+ID = 1
+buf = sound
+
+2023-08-14 11:16:13,677 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["sound"],"1":["sound"],"2":["sound"],"3":["sound"],"4":["sound"]}
+
+2023-08-14 11:16:28,287 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 黑色
+
+2023-08-14 11:16:28,369 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["黑色"],"1":["黑色"],"2":["黑格"],"3":["黑格"],"4":["色"]}
+
+2023-08-14 11:16:35,105 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 11:16:35,105 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["画"],"3":["正"],"4":["中心"]}
+
+2023-08-14 11:16:48,755 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = 黑色
+
+2023-08-14 11:16:48,755 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["黑色"],"1":["黑色"],"2":["黑格"],"3":["黑格"],"4":["色"]}
+
+2023-08-14 11:16:57,859 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 11
+ID = 1
+buf = 黑色sound
+
+2023-08-14 11:20:00,546 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 11:20:00,751 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["画"],"3":["正"],"4":["中心"]}
+
+2023-08-14 11:20:16,561 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 黄
+
+2023-08-14 11:20:16,561 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["黄"],"1":["黄河"],"2":["黄州"],"3":["黄金"],"4":["黄帝"]}
+
+2023-08-14 11:20:22,056 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 4
+ID = 1
+buf = 黄�
+
+2023-08-14 11:26:49,207 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 4
+ID = 1
+buf = �黄
+
+2023-08-14 11:27:23,232 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 7
+ID = 1
+buf = english
+
+2023-08-14 11:27:26,857 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["english"],"1":["english"],"2":["english"],"3":["english"],"4":["english"]}
+
+2023-08-14 11:27:30,032 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 11:27:30,163 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["画"],"3":["正"],"4":["中心"]}
+
+2023-08-14 11:27:33,289 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 黄
+
+2023-08-14 11:27:33,347 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["黄"],"1":["黄河"],"2":["黄州"],"3":["黄金"],"4":["黄帝"]}
+
+2023-08-14 11:27:39,835 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 黄
+
+2023-08-14 11:27:39,836 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["黄"],"1":["黄河"],"2":["黄州"],"3":["黄金"],"4":["黄帝"]}
+
+2023-08-14 11:29:11,260 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = �中en
+
+2023-08-14 11:29:11,287 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["predisposed"],"1":["predisposed"],"2":["predisposed"],"3":["predisposed"],"4":["predisposed"]}
+
+2023-08-14 11:29:40,871 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 5
+ID = 1
+buf = 中en
+
+2023-08-14 11:32:06,567 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 7
+ID = 1
+buf = newyear
+
+2023-08-14 11:32:10,176 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["newer"],"1":["newer"],"2":["newer"],"3":["newer"],"4":["newer"]}
+
+2023-08-14 14:51:27,947 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 2
+ID = 1
+buf = en
+
+2023-08-14 14:51:28,791 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["men"],"1":["men"],"2":["eh"],"3":["eh"],"4":["pen"]}
+
+2023-08-14 14:51:32,886 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 2
+ID = 1
+buf = en
+
+2023-08-14 14:51:32,888 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["men"],"1":["men"],"2":["eh"],"3":["eh"],"4":["pen"]}
+
+2023-08-14 14:51:36,326 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 14:51:36,353 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["中心"],"3":["之中"],"4":["中所"]}
+
+2023-08-14 14:51:41,839 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 14:51:41,840 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["中心"],"3":["之中"],"4":["中所"]}
+
+2023-08-14 14:51:52,656 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 6
+ID = 1
+buf = �中en
+
+2023-08-14 14:51:52,668 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["mollified"],"1":["mollified"],"2":["moldavian"],"3":["moldavian"],"4":["moderating"]}
+
+2023-08-14 14:52:16,317 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 2
+buf = 中
+
+2023-08-14 14:52:16,319 mylogger [WARN] [SearchEngineServer.cpp] [process] [69] WEBPAGEQUERY : sendMsg : �
+
+2023-08-14 14:54:06,767 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 2
+buf = 中
+
+2023-08-14 14:54:06,768 mylogger [WARN] [SearchEngineServer.cpp] [process] [69] WEBPAGEQUERY : sendMsg : �
+
+2023-08-14 14:55:03,391 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 14:55:03,601 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["中心"],"3":["之中"],"4":["中所"]}
+
+2023-08-14 14:55:06,855 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 14:55:06,856 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["中心"],"3":["之中"],"4":["中所"]}
+
+2023-08-14 14:55:10,887 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 2
+buf = 中
+
+2023-08-14 14:55:10,888 mylogger [WARN] [SearchEngineServer.cpp] [process] [69] WEBPAGEQUERY : sendMsg : �
+
+2023-08-14 15:08:39,514 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 2
+ID = 1
+buf = en
+
+2023-08-14 15:08:40,379 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["men"],"1":["men"],"2":["eh"],"3":["eh"],"4":["pen"]}
+
+2023-08-14 15:08:44,123 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 2
+ID = 1
+buf = en
+
+2023-08-14 15:08:44,125 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["men"],"1":["men"],"2":["eh"],"3":["eh"],"4":["pen"]}
+
+2023-08-14 15:08:50,380 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 15:08:50,381 mylogger [WARN] [SearchEngineServer.cpp] [process] [69] WEBPAGEQUERY : sendMsg : �
+
+2023-08-14 15:23:29,494 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 1
+buf = std
+
+2023-08-14 15:23:30,722 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["st"],"1":["st"],"2":["st"],"3":["sad"],"4":["sad"]}
+
+2023-08-14 15:23:39,812 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 15:23:39,814 mylogger [WARN] [SearchEngineServer.cpp] [process] [69] WEBPAGEQUERY : sendMsg : �
+
+2023-08-14 15:27:00,752 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 2
+ID = 1
+buf = eb
+
+2023-08-14 15:27:01,499 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["eh"],"1":["eh"],"2":["web"],"3":["web"],"4":["ex"]}
+
+2023-08-14 15:27:09,144 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 2
+ID = 1
+buf = eb
+
+2023-08-14 15:27:09,146 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["eh"],"1":["eh"],"2":["web"],"3":["web"],"4":["ex"]}
+
+2023-08-14 15:27:14,189 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [143] >>recv msg from client :
+length = 3
+ID = 2
+buf = 中
+
+2023-08-14 15:30:20,747 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 17:28:16,422 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 17:28:16,635 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["中心"],"3":["之中"],"4":["中所"]}
+
+2023-08-14 17:28:24,385 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 17:34:39,389 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 17:34:39,587 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["中心"],"3":["之中"],"4":["中所"]}
+
+2023-08-14 17:34:44,003 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 1
+buf = 孔子
+
+2023-08-14 17:34:44,005 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["孔子"],"1":["孔子"],"2":["庄子"],"3":["庄子"],"4":["孔明"]}
+
+2023-08-14 17:34:51,842 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 17:34:51,843 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["中心"],"3":["之中"],"4":["中所"]}
+
+2023-08-14 19:44:18,958 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 19:44:19,184 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["中心"],"3":["之中"],"4":["中所"]}
+
+2023-08-14 19:44:25,915 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 7
+ID = 1
+buf = 中�国
+
+2023-08-14 19:44:25,919 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中远"],"1":["中计"],"2":["中视"],"3":["中装"],"4":["中行"]}
+
+2023-08-14 19:44:31,358 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 3
+ID = 1
+buf = 中
+
+2023-08-14 19:44:31,359 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中"],"1":["中国"],"2":["中心"],"3":["之中"],"4":["中所"]}
+
+2023-08-14 19:44:37,813 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 6
+ID = 1
+buf = 中国
+
+2023-08-14 19:44:37,817 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["中国"],"1":["中国"],"2":["中"],"3":["中"],"4":["中心"]}
+
+2023-08-14 19:44:52,000 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [144] >>recv msg from client :
+length = 12
+ID = 2
+buf = 服博物馆
+
+2023-08-14 19:50:14,279 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [146] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 19:51:22,535 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [147] >>recv msg from client :
+length = 5
+ID = 2
+buf = china
+
+2023-08-14 19:57:15,683 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [147] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 19:59:44,554 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [147] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 20:03:03,121 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [147] >>recv msg from client :
+length = 2
+ID = 1
+buf = en
+
+2023-08-14 20:03:03,946 mylogger [INFO] [SearchEngineServer.cpp] [process] [52] KEYRECOMMAND : sendMsg : {"0":["men"],"1":["men"],"2":["eh"],"3":["eh"],"4":["pen"]}
+
+2023-08-14 20:03:09,167 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [147] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 20:05:14,603 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [147] >>recv msg from client :
+length = 2
+ID = 2
+buf = rn
+
+2023-08-14 20:11:31,870 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [147] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 20:19:42,843 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 20:36:36,435 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 21:50:44,509 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 21:51:02,672 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 3
+ID = 2
+buf = 中
+
+2023-08-14 22:09:59,374 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 3
+ID = 2
+buf = ern
+
+2023-08-14 22:37:25,920 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 22:41:29,738 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 22:43:40,670 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 22:47:10,116 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 2
+ID = 2
+buf = em
+
+2023-08-14 22:47:15,877 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 22:47:20,124 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 3
+ID = 2
+buf = 中
+
+2023-08-14 23:04:53,780 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 23:06:56,778 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 2
+ID = 2
+buf = en
+
+2023-08-14 23:07:02,286 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 中文
+
+2023-08-14 23:07:17,688 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 孔子
+
+2023-08-14 23:11:59,754 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 中文
+
+2023-08-14 23:12:16,553 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 中文
+
+2023-08-14 23:12:31,689 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 孔子
+
+2023-08-15 10:42:14,642 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 孔子
+
+2023-08-15 10:42:19,574 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 孔子
+
+2023-08-15 10:42:25,831 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 卫生
+
+2023-08-15 10:42:47,555 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 卫生
+
+2023-08-15 10:46:29,791 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 卫生
+
+2023-08-15 10:46:44,062 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 气象
+
+2023-08-15 10:46:52,507 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 气象
+
+2023-08-15 10:56:13,695 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 12
+ID = 2
+buf = 六月下旬
+
+2023-08-15 10:56:45,672 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 六月
+
+2023-08-15 10:57:05,455 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 6
+ID = 2
+buf = 六月
+
+2023-08-15 10:57:12,060 mylogger [INFO] [SearchEngineServer.cpp] [onMessage] [142] >>recv msg from client :
+length = 12
+ID = 2
+buf = 六月下旬
+

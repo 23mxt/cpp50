@@ -38,7 +38,7 @@ public:
 
     double getDistance() const
     {
-        return hypot(_ix, _iy);
+        return hypot(_ix, _iy); //求平方跟,还可以通过另一种方式实现
     }
 
     int getX() const
@@ -285,12 +285,14 @@ void MyQsort<T,Compare>::print()
 
 template<typename T,typename Compare>
 MyQsort<T,Compare>::MyQsort(T * arr, size_t size, Compare com)
+:_vec(arr, arr + size)
 {
+#if 0
     for(size_t i = 0; i < size; i++)
     {
         _vec.push_back(arr[i]);
     }
-
+#endif
     quick(0, _vec.size() - 1, com);
 }
 
@@ -327,10 +329,10 @@ int MyQsort<T, Compare>::partition(int left, int right, Compare &com)
 int main(int argc,char **argv)
 {
     int arr[10] = {1, 2, 4, 5, 8, 6, 3, 7, 10, 9} ;
-    MyQsort<int> mqInt(arr, 10, std::less<int>());
-    /* MyQsort<int, std::greater<int>> mqInt1(arr, 10, std::greater<int>()); */
+    /* MyQsort<int> mqInt(arr, 10, std::less<int>()); */
+    MyQsort<int, std::greater<int>> mqInt1(arr, 10, std::greater<int>());
 
-    mqInt.print();
+    mqInt1.print();
 
     Point par[5] = {Point(1,2), Point(3,4), Point(-1,2), Point(4,5), Point(2,5)};
     MyQsort<Point> mqPt(par,5,std::less<Point>());

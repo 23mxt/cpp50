@@ -1,0 +1,27 @@
+#include <Mycpphead.h>
+#include <string.h>
+#include <iostream>
+#include <fstream>
+#include <strstream>
+#include <sstream>
+#include <string>
+#include <vector>
+#include <map>
+#include <set>
+#include <unordered_set>
+
+using std::cout;
+using std::endl;
+using std::cerr;
+using std::istream;
+using std::ostream;
+using std::ifstream;
+using std::ofstream;
+using std::istringstream;
+using std::ostringstream;
+using std::string;
+using std::vector;
+using std::map;
+using std::set;
+using std::unordered_set;
+using std::pair;
